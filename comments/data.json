@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Gamer123",
+      "star_rating": 5,
+      "comment": "This game is incredible! The graphics, storyline, and gameplay are all top-notch."
+    },
+    {
+      "id": 2,
+      "name": "CasualPlayer",
+      "star_rating": 3,
+      "comment": "A decent game for casual gaming sessions. The controls are okay, and the visuals are average."
+    },
+    {
+      "id": 3,
+      "name": "ChallengeSeeker",
+      "star_rating": 2,
+      "comment": "The difficulty level is too high for my taste. Frustrating gameplay and not enough guidance."
+    },
+    {
+      "id": 4,
+      "name": "FPSMaster",
+      "star_rating": 4,
+      "comment": "Love the intense first-person shooter action! The variety of weapons and maps keep it exciting."
+    },
+    {
+      "id": 5,
+      "name": "StrategyGuru",
+      "star_rating": 5,
+      "comment": "This game is a strategy masterpiece! Complex decisions and a deep storyline make it a must-play."
+    },
+    {
+      "id": 6,
+      "name": "AdventureExplorer",
+      "star_rating": 3,
+      "comment": "An enjoyable adventure with a mix of puzzles and exploration. The graphics could be improved."
+    },
+    {
+      "id": 7,
+      "name": "RetroGamerX",
+      "star_rating": 4,
+      "comment": "Brings back the nostalgia of retro gaming. The pixel art and classic sound effects are spot-on."
+    },
+    {
+      "id": 8,
+      "name": "PuzzleEnthusiast",
+      "star_rating": 2,
+      "comment": "The puzzles are too easy and repetitive. Not challenging enough for puzzle enthusiasts."
+    },
+    {
+      "id": 9,
+      "name": "MMOAdventurer",
+      "star_rating": 1,
+      "comment": "Disappointing MMO experience. The world feels empty, and the quests lack depth."
+    },
+    {
+      "id": 10,
+      "name": "ArcadeFanatic",
+      "star_rating": 5,
+      "comment": "Pure arcade bliss! Fast-paced gameplay and a variety of challenges keep me hooked."
+    },
+    {
+      "id": 11,
+      "name": "SciFiFan",
+      "star_rating": 4,
+      "comment": "A captivating science fiction game. The futuristic setting and storyline are engaging."
+    },
+    {
+      "id": 12,
+      "name": "CasualGamer",
+      "star_rating": 3,
+      "comment": "Good for a casual playthrough. The graphics are decent, and the controls are user-friendly."
+    },
+    {
+      "id": 13,
+      "name": "SpeedRunnerPro",
+      "star_rating": 5,
+      "comment": "Perfect for speedrunners! The level design encourages skillful and fast-paced gameplay."
+    },
+    {
+      "id": 14,
+      "name": "HorrorGameAficionado",
+      "star_rating": 4,
+      "comment": "A chilling horror experience. The atmospheric tension and jump scares are well-executed."
+    },
+    {
+      "id": 15,
+      "name": "SimCityArchitect",
+      "star_rating": 2,
+      "comment": "Lacks the depth of other simulation games. City-building options are limited."
+    },
+    {
+      "id": 16,
+      "name": "IndieGameExplorer",
+      "star_rating": 5,
+      "comment": "Indie brilliance! Creative gameplay and unique art style set it apart from mainstream titles."
+    },
+    {
+      "id": 17,
+      "name": "SportsGameFan",
+      "star_rating": 4,
+      "comment": "Realistic sports simulation. The controls mimic the real sport well, providing an immersive experience."
+    },
+    {
+      "id": 18,
+      "name": "MobileGamerPro",
+      "star_rating": 3,
+      "comment": "Great for on-the-go gaming. Decent graphics for a mobile game, but lacks some features."
+    },
+    {
+      "id": 19,
+      "name": "FantasyQuester",
+      "star_rating": 1,
+      "comment": "Uninspiring fantasy game. The world feels generic, and the quests are repetitive."
+    },
+    {
+      "id": 20,
+      "name": "TechieGamer",
+      "star_rating": 4,
+      "comment": "Impressed with the technological features. The game pushes the boundaries of gaming innovation."
+    }
+]
+  
